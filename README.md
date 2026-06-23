@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Kalabduke&label=Profile%20views&color=ef4444&style=flat" alt="Kalabduke" />
 </div>
 🧑‍💻 About Me
-I'm a Computer Science graduate from Dilla University (CGPA: 3.02 | Exit Exam: 80/100) based in Addis Ababa, Ethiopia 🇪🇹.
+I'm a Computer Science graduate based in Addis Ababa, Ethiopia 🇪🇹.
 Passionate about frontend development, mobile apps, and data engineering. I'm a quick learner with hands-on experience building real projects using React, Kotlin, Jetpack Compose, and Python.
 Currently diving deep into Odoo ERP development and mastering Git & GitHub workflows.
 🔭 I’m currently working on easy-crm — a lightweight CRM solution
